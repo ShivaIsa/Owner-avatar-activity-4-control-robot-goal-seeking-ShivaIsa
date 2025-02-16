@@ -1,0 +1,3 @@
+<launch>
+    <node name="goal_seek_part1" pkg="goal_seek" type="goal_seek_part1.py" output="screen"/>
+</launch>
